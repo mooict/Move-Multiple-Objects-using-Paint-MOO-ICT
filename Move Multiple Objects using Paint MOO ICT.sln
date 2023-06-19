@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Move Multiple Objects using Paint MOO ICT", "Move Multiple Objects using Paint MOO ICT\Move Multiple Objects using Paint MOO ICT.csproj", "{880EB570-B951-4F66-BD95-D1C8D8B1932A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880EB570-B951-4F66-BD95-D1C8D8B1932A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880EB570-B951-4F66-BD95-D1C8D8B1932A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880EB570-B951-4F66-BD95-D1C8D8B1932A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880EB570-B951-4F66-BD95-D1C8D8B1932A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10B94FDE-18F7-4E9A-B944-42389CD6B842}
+	EndGlobalSection
+EndGlobal
