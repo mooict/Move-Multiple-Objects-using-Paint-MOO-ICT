@@ -1,0 +1,1 @@
+# Move Multiple Objects using Paint MOO ICT
